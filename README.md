@@ -21,9 +21,11 @@
 1. python_lecture_note.pdf 파이썬 기반 데이터 사이언스 입문 강의노트
 
 2. 주피터노트북 파일
-    - intro.ipynb (파이썬 자료형, 문법, 라이브러리 등)
-    - pandas.ipynb (파이썬 데이터 분석 라이브러리, 판다스)
-    - Preprocess.ipynb (BIS, ECOS, 한국부동산원 등에서 입수한 데이터의 전처리 및 시각화)
+    - 1_1_intro.ipynb (파이썬 자료형, 문법, 라이브러리 등)
+    - 1_2_numpy.ipynb (파이썬 데이터 분석 라이브러리, 넘파이)
+    - 1_3_pandas_1.ipynb (파이썬 데이터 분석 라이브러리, 판다스)
+    - 1_3_pandas_2.ipynb
+    - 1_4_data_analysis.ipynb (BIS, ECOS, 한국부동산원 등에서 입수한 데이터의 전처리 및 시각화)
     
 3. input 폴더
     - 이미지, excel, csv 파일 등
